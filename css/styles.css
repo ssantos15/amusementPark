@@ -1,0 +1,15 @@
+.intro {
+  text-align: center;
+}
+
+.intro p {
+  font-style: italic;
+}
+
+#belowHeight {
+  display: none;
+}
+
+#heightApproved {
+  display: none;
+}
